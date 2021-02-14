@@ -1,5 +1,5 @@
 {
-  "name": "forecast",
+  "name": "forecast-cli",
   "version": "1.0.0",
   "description": "Weather command line application",
   "main": "app.js",
